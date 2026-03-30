@@ -1,0 +1,30 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate profile metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Create a Personal Access Token and save it as METRICS_TOKEN.
+          # Give it access to the private repositories you want counted.
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ github.token }}
+          user: L0SEYI
+          committer_branch: main
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, metadata
+          base_indepth: yes
+          config_timezone: Africa/Lagos
