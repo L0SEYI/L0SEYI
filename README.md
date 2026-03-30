@@ -78,6 +78,14 @@ I am a Computer Science student focused on building real-world digital products 
 
 I am especially interested in products that blend intelligent systems with clean execution: AI-powered platforms, secure full-stack applications, modern mobile experiences, and systems designed with long-term scale in mind. One of the strongest examples of that direction is building product ideas around interview simulation, CV optimization, market intelligence, and real-time user interaction.
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=L0SEYI&theme=vue-dark&hide_border=false&include_all_commits=true&show_icons=true" alt="GitHub stats" /><br/>
+  <img src="https://streak-stats.demolab.com?user=L0SEYI&theme=vue-dark&hide_border=false" alt="GitHub streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0SEYI&theme=vue-dark&hide_border=false&include_all_commits=true&layout=compact" alt="Top languages" />
+</div>
+
 ## Let's Connect
 
 If you're building in AI, cloud, cybersecurity, mobile, or product-focused software, I'm always open to meaningful collaboration and strong technical conversations.
