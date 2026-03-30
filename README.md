@@ -63,7 +63,6 @@ I am a Computer Science student focused on building real-world digital products 
   <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
