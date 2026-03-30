@@ -1,18 +1,18 @@
 <!--
 Quick setup:
-1. Rename your GitHub profile repository to your exact GitHub username.
+1. Keep this repository named exactly L0SEYI.
 2. This README is configured for the GitHub username L0SEYI.
-3. Update the short bio, stack, and social links so the profile feels fully yours.
-4. Add a GitHub Actions secret named METRICS_TOKEN, then run the Metrics workflow once.
+3. Add a GitHub Actions secret named METRICS_TOKEN, then run the Metrics workflow once.
+4. Update any contact links if your public profiles change later.
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:14b8a6&text=Oluwaseyi%20Awhansu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20clean%20digital%20experiences%20and%20learning%20in%20public&descSize=16&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:14b8a6&text=L0SEYI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%2C%20Cloud%20%26%20Cybersecurity%20Focused&descSize=16&descAlignY=58" />
 
 <div align="center">
 
 # Hi, I'm Oluwaseyi
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Aspiring+Developer;Building+modern+projects+step+by+step;Always+learning%2C+always+shipping" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=820&lines=Full-stack+builder+focused+on+real-world+products;Exploring+AI%2C+cloud+systems%2C+and+cybersecurity;Building+with+Next.js%2C+TypeScript%2C+React+Native%2C+and+Supabase" alt="Typing introduction" />
 
 </div>
 
@@ -28,32 +28,57 @@ Quick setup:
 
 ## About Me
 
-I enjoy turning ideas into polished digital experiences and improving a little every day through hands-on projects. I care about clean design, useful products, and building a profile that reflects growth, curiosity, and consistency.
+I am a Computer Science student focused on building real-world digital products at the intersection of AI, cloud systems, and cybersecurity. I enjoy turning ideas into structured platforms, designing secure architectures, and shipping products that solve practical problems.
 
-- Building projects that sharpen my frontend and problem-solving skills
-- Learning in public and documenting progress one step at a time
-- Open to collaboration, creative ideas, and meaningful opportunities
+- Building full-stack applications with a strong focus on product thinking and system design
+- Interested in authentication flows, database design, access control, and scalable backend architecture
+- Exploring AI integrations, voice systems, and modern cloud-powered user experiences
+- Growing toward cloud solutions architecture and cybersecurity-focused engineering
 
-## Current Focus
+## What I'm Working On
 
 ```text
-- Designing modern, user-friendly interfaces
-- Strengthening my JavaScript and web development workflow
-- Growing a portfolio that feels intentional and professional
+- AI-powered product ideas with strong user and system design foundations
+- Secure backend flows, RLS policies, and scalable database architecture
+- React Native and Expo apps with better performance and production structure
+- Advanced C#, Unity workflows, and practical experimentation with interactive systems
 ```
+
+## Ask Me About
+
+- Next.js, TypeScript, Node.js, and full-stack product development
+- React Native, Expo, and building cross-platform mobile apps
+- Supabase, PostgreSQL, authentication, and access control design
+- AI-assisted features, real-time interaction systems, and product architecture
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-0284C7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </div>
+
+## Current Direction
+
+I am especially interested in products that blend intelligent systems with clean execution: AI-powered platforms, secure full-stack applications, modern mobile experiences, and systems designed with long-term scale in mind. One of the strongest examples of that direction is building product ideas around interview simulation, CV optimization, market intelligence, and real-time user interaction.
 
 ## Live GitHub Snapshot
 
@@ -67,11 +92,14 @@ I enjoy turning ideas into polished digital experiences and improving a little e
 
 ## Let's Connect
 
-If you like clean design, creative builds, or collaborative projects, feel free to reach out. I'm building, learning, and always looking for the next challenge worth showing up for.
+If you're building in AI, cloud, cybersecurity, mobile, or product-focused software, I'm always open to meaningful collaboration and strong technical conversations.
 
 <div align="center">
   <a href="mailto:awhansuoluwaseyi@gmail.com">
     <img src="https://img.shields.io/badge/Send%20me%20an%20email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
+  </a>
+  <a href="https://github.com/L0SEYI">
+    <img src="https://img.shields.io/badge/Visit%20my%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub" />
   </a>
 </div>
 
