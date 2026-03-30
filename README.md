@@ -54,16 +54,24 @@ I enjoy turning ideas into polished digital experiences and improving a little e
   <img src="https://img.shields.io/badge/VS%20Code-0284C7?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </div>
 
-## GitHub Snapshot
+## Live GitHub Snapshot
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=L0SEYI&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=14b8a6&text_color=cbd5e1&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=L0SEYI&hide_border=true&background=00000000&stroke=334155&ring=0ea5e9&fire=14b8a6&currStreakLabel=cbd5e1&sideNums=cbd5e1&currStreakNum=ffffff&sideLabels=94a3b8&dates=94a3b8" alt="GitHub streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=L0SEYI&show_icons=true&include_all_commits=true&hide_border=true&title_color=0ea5e9&icon_color=14b8a6&text_color=cbd5e1&bg_color=00000000&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=21600" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=L0SEYI&hide_border=true&background=00000000&stroke=334155&ring=0ea5e9&fire=14b8a6&currStreakLabel=cbd5e1&sideNums=cbd5e1&currStreakNum=ffffff&sideLabels=94a3b8&dates=94a3b8" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0SEYI&layout=compact&hide_border=true&title_color=0ea5e9&text_color=cbd5e1&bg_color=00000000" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0SEYI&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=cbd5e1&bg_color=00000000&cache_seconds=21600" alt="Top languages" />
 </div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=L0SEYI&bg_color=00000000&color=cbd5e1&line=0ea5e9&point=14b8a6&area=true&area_color=0f172a&hide_border=true" alt="GitHub activity graph" />
+</div>
+
+<p align="center">
+  <sub>These cards update automatically from your public GitHub activity. Some hosted cards are cached, so new activity can take a few hours to appear.</sub>
+</p>
 
 ## Let's Connect
 
