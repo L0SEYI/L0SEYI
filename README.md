@@ -1,18 +1,11 @@
-<!--
-Quick setup:
-1. Keep this repository named exactly L0SEYI.
-2. This README is configured for the GitHub username L0SEYI.
-3. Update any contact links if your public profiles change later.
--->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:0f172a,45:1d4ed8,100:14b8a6&amp;text=L0SEYI&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Science%20Student%20%7C%20AI%2C%20Cloud%20%26%20Cybersecurity%20Focused&amp;descSize=16&amp;descAlignY=58" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=header&amp;color=0:0f172a,45:1d4ed8,100:14b8a6" alt="Header banner" />
 
 <div align="center">
-
-# Hi, I'm Oluwaseyi
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Full-stack+builder+focused+on+real-world+products;Exploring+AI%2C+cloud+systems%2C+and+cybersecurity;Building+with+Next.js%2C+TypeScript%2C+React+Native%2C+and+Supabase" alt="Typing introduction" />
-
+  <h1>Hi, I'm Oluwaseyi</h1>
+  <p><strong>Computer Science Student | AI, Cloud and Cybersecurity Focused</strong></p>
+  <p>Full-stack builder focused on real-world products, secure backend systems, and modern AI-powered experiences.</p>
 </div>
 
 <div align="center">
@@ -40,7 +33,6 @@ I am a Computer Science student focused on building real-world digital products 
 - AI-powered product ideas with strong user and system design foundations
 - Secure backend flows, RLS policies, and scalable database architecture
 - React Native and Expo apps with better performance and production structure
-- Advanced C#, Unity workflows, and practical experimentation with interactive systems
 ```
 
 ## Ask Me About
@@ -62,12 +54,21 @@ I am a Computer Science student focused on building real-world digital products 
   <img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=csharp&amp;logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=111827" alt="Firebase" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Vapi-0f172a?style=for-the-badge" alt="Vapi" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
@@ -81,8 +82,7 @@ I am especially interested in products that blend intelligent systems with clean
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L0SEYI&amp;theme=vue-dark&amp;hide_border=false&amp;include_all_commits=true&amp;show_icons=true" alt="GitHub stats" /><br/>
-  <img src="https://streak-stats.demolab.com?user=L0SEYI&amp;theme=vue-dark&amp;hide_border=false" alt="GitHub streak" /><br/>
+  <img src="https://streak-stats.demolab.com?user=L0SEYI&amp;theme=dark&amp;hide_border=false" alt="GitHub streak" /><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L0SEYI&amp;theme=dark" alt="Repos per language" />
 </div>
 
@@ -99,4 +99,4 @@ If you're building in AI, cloud, cybersecurity, mobile, or product-focused softw
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:0f172a,45:1d4ed8,100:14b8a6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:0f172a,45:1d4ed8,100:14b8a6" alt="Footer banner" />
