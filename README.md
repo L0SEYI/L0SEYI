@@ -83,7 +83,6 @@ I am especially interested in products that blend intelligent systems with clean
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L0SEYI&amp;theme=vue-dark&amp;hide_border=false&amp;include_all_commits=true&amp;show_icons=true" alt="GitHub stats" /><br/>
   <img src="https://streak-stats.demolab.com?user=L0SEYI&amp;theme=vue-dark&amp;hide_border=false" alt="GitHub streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0SEYI&amp;theme=vue-dark&amp;hide_border=false&amp;include_all_commits=true&amp;layout=compact" alt="Top languages" /><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L0SEYI&amp;theme=dark" alt="Repos per language" />
 </div>
 
