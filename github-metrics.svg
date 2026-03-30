@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Metrics Placeholder</title>
+  <desc id="desc">Placeholder image until the GitHub Actions metrics workflow generates the live card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1d4ed8" />
+      <stop offset="100%" stop-color="#14b8a6" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)" />
+  <rect x="18" y="18" width="1164" height="324" rx="22" fill="#0b1120" fill-opacity="0.86" stroke="#38bdf8" stroke-opacity="0.35" />
+  <text x="70" y="112" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">
+    GitHub metrics will appear here
+  </text>
+  <text x="70" y="168" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    Add the METRICS_TOKEN secret, then run the Metrics workflow once.
+  </text>
+  <text x="70" y="212" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    After setup, the generated card can include private commit activity too.
+  </text>
+  <text x="70" y="276" fill="#67e8f9" font-family="Segoe UI, Arial, sans-serif" font-size="18">
+    File: github-metrics.svg
+  </text>
+</svg>
